@@ -1,0 +1,23 @@
+.LandingPageIcons p {
+    font-size: 12px;
+}
+.LandingPageIcons{
+    margin-top: 10%;
+    float: left;
+    text-align: center;
+    height: 20%;
+    width:8%;
+  }
+.arrowIcon {
+    position: relative;
+    bottom : 60px;
+    left: 55%;
+    }
+  
+.lastItem {
+      margin-top: -30px;
+  }
+.iconTitle{
+    margin-top: 10%;
+    width:10%;
+}

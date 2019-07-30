@@ -1,0 +1,12 @@
+
+.item-selected:hover {
+  color: #59B0F6 !important;
+  font-weight: bold;
+}
+/*.nav-link {
+  padding-right : 1rem !important;
+  padding-left : 1rem !important;
+}*/
+.Row{
+  width : 100% !important;
+}

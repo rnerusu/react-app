@@ -1,0 +1,17 @@
+.Aligner {
+    margin-top: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1rem;
+  }
+
+.LandingPageContainer {
+  height: 80vh;
+  margin-top: 5%;
+}
+.EditButtons{
+  float: right;
+  font-size: 1rem;
+  color: #59B0F6 !important;
+}

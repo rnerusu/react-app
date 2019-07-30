@@ -1,0 +1,28 @@
+
+.Maintoolbar-header {
+    background-color: #282c34;
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.navbar-nav.navbar-center a{
+  color: #FFFFFF !important;
+  font-size: 14px;
+}
+
+.navbar-nav.navbar-center a:hover{
+    color: #59B0F6 !important;
+}
+
+  .coloredheader{
+    color :  #FFFFFF !important;
+  }
